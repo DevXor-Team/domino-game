@@ -1,2 +1,1 @@
-# domino-game
-Discord domino game 😉🕹️
+<h1 align="center">Domino Game</h1>
