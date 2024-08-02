@@ -3,6 +3,7 @@
 <img align="center" src="https://media.discordapp.net/attachments/1183127035174998207/1268289145999196241/image.png?ex=66ae84d0&is=66ad3350&hm=bc716fd16bdda7fb5a429313b29e5a7113b0f5c0c4ba47b5bf75c46d311be034&=&format=webp&quality=lossless&width=719&height=402">
 
 <br>
+<br>
   <a href="https://discord.gg/devxor-931536214228611102">
     <img src="https://img.shields.io/discord/800447810864152596.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" alt="Support">
   </a>
